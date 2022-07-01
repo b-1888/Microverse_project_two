@@ -27,3 +27,11 @@ background-color: #444;
     list-style: none;
     display: flex;
 }
+#navbar ul a{
+display: inline-block;
+padding: 1.2rem 2rem;
+text-decoration: none;
+color: #fff;
+font-size: 1.4rem;
+font-weight: 500;
+}
