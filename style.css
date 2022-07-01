@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body {
+    font-family: 'Releway','Trebuchet MS', sans-serif;
+    line-height: 1.54;
+    text-align: center;
+}
+#welcome {
+height: 100vh;
+background-color: #444;
+}
+#navbar{
+    background-color: brown;
+    color: #fff;
+    padding: 0rem 3rem;
+    display: flex;
+    justify-content: flex-end;
+    position: fixed;
+    width: 100vw;
+
+}
+#navbar ul{
+    list-style: none;
+    display: flex;
+}
